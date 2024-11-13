@@ -1,0 +1,9 @@
+   Send Money
+1. Telecel Cash User
+2. Other Networks
+3. To Bank Account
+4. E-zwich
+5. From Linked Bank Account
+6. Unregistered Telecel Cash user
+7. To My Favorites
+   0. Back
